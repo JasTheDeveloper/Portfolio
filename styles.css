@@ -1,0 +1,185 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+footer a li {
+    text-decoration: underline;
+    color: gray;
+    font-weight: bolder;
+}
+
+footer ul :hover {
+    background-color: goldenrod;
+}
+
+body {
+    background-color: black;
+}
+
+
+.header h1 {
+    color: gray;
+    padding-top: 2rem;
+    padding-left: 10rem;
+
+}
+
+
+
+.container h3 {
+    color: gray;
+    padding-left: 55rem;
+    
+}
+
+.containerTwo {
+    color: gray;
+    padding-left: 1rem;
+}
+
+footer {
+    margin-left: 38rem;
+    padding-top: 30rem;
+    
+}
+
+ul li {
+    text-decoration: none;
+    display: block;
+    padding: 14px 16px;
+    margin-left: 10px;
+    color: gray;
+    
+    float: left;
+}
+
+
+
+
+div,
+span {
+    display: inline-block;
+}
+
+hr {
+    color: gray;
+}
+
+.intro  {
+    color: gray;
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+    
+}
+
+.intro h1 {
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+}
+
+.intro h2 {
+   font-size: 2.5rem;
+   position: fixed;
+   padding-top: 150px;
+   
+}
+
+
+
+.button {
+    margin-top: 10rem;
+    border-radius: 3rem;
+    padding: 1rem;
+    width: 8rem;
+    font-size: 24px;
+    font-weight: bolder;
+    background-color: gray;
+    text-decoration: none; 
+}
+
+
+
+.portfolio {
+    
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.portfolio :hover {
+    background-color:goldenrod;
+    cursor: pointer;
+}
+
+.work {
+    color: gray;
+    font-size: 25px;
+    padding-top: 2rem;
+    display: flex;
+    justify-content: center;   
+}
+
+.about {
+    color: gray;
+    font-size: 25px;
+    padding-top: 2rem;
+    display: flex;
+    justify-content: center;
+}
+
+.contact {
+    color: gray;
+    font-size: 25px;
+    padding-top: 2rem;
+    display: flex;
+    justify-content: center;
+}
+
+
+.message {
+    padding-top: 8rem;
+    text-decoration: none;
+    color: gray;
+    font-size: 24px;
+    position: absolute;
+    margin-left: 35rem;
+   
+}
+
+.messageButton .button{
+    
+    margin-top: 10rem;
+    border-radius: 3rem;
+    padding: 1rem;
+    width: 8rem;
+    font-size: 24px;
+    font-weight: bolder;
+    background-color: gray;
+    text-decoration: none;
+}
+
+.messageButton :hover {
+    background-color: goldenrod;
+
+}
+
+.messageButton {
+    padding-left: 43.5rem;
+    padding-top: 20rem;
+    position: fixed;
+}
+
+.Frequency  {
+    padding-left: 3rem;
+    padding-top: 3rem;
+
+}
+
+
+
+
+
